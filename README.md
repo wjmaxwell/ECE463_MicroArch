@@ -6,3 +6,6 @@ Designed and implemented a flexible cache and memory hierarchy simulator and com
 
 ## Project 2
 Constructed a global history with index sharing (gshare) branch predictor simulator and evaluated different configurations of branch predictors.
+
+## Project 3
+TBD
