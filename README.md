@@ -8,4 +8,4 @@ Designed and implemented a flexible cache and memory hierarchy simulator and com
 Constructed a global history with index sharing (gshare) branch predictor simulator and evaluated different configurations of branch predictors.
 
 ## Project 3
-TBD
+Constructed a simulator for an out-of-order superscalar processor that fetches and issues N instructions per cycle. Only the dynamic scheduling mechanism will be modeled in detail, i.e., perfect caches and perfect branch prediction are assumed.
